@@ -1,4 +1,5 @@
 ## Next.js App Router Course
 
-Email: user@nextmail.com
-Password: 123456
+Dashboard admin
+- Email: user@nextmail.com
+- Password: 123456
